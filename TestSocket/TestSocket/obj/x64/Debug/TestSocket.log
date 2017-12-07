@@ -1,0 +1,21 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '150.95.179.163'
+  Starting remote build
+  Compiling sources:
+  GameAction.cpp
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(38,58): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(45,58): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(53,58): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(67,44): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(110,10): warning : enumeration value ‘Finish’ not handled in switch [-Wswitch]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(148,6): warning : unused variable ‘count’ [-Wunused-variable]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(157,21): warning : unused variable ‘status’ [-Wunused-variable]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(167,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(174,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(181,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(186,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(192,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\大樹\Desktop\TestSocket\TestSocket\GameAction.cpp(140,1): warning : control reaches end of non-void function [-Wreturn-type]
+  Linking objects
+  TestSocket.vcxproj -> C:\Users\大樹\Desktop\TestSocket\TestSocket\bin\x64\Debug\TestSocket.out
